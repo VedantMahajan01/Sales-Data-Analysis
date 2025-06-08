@@ -19,7 +19,7 @@ This project was completed as part of my internship Projectand my final year MCA
 
 ---
 
-## 🛠️ Technologies & Tools Used
+## Technologies & Tools Used
 
 - **Python** (Jupyter Notebook - VS Code)
   - pandas, numpy
