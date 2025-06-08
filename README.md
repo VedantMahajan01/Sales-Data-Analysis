@@ -9,7 +9,7 @@ This repository contains a comprehensive **Sales Data Analysis** project develop
 
 ## Project Overview
 
-This project was completed as part of my internship Projectand my final year MCA curriculum. The project analyzes historical sales data to:
+This project was completed as part of my internship Project and my final year MCA curriculum. The project analyzes historical sales data to:
 
 - Understand sales trends and patterns
 - Identify top-performing products and regions
